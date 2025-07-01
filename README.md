@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I am nb429.
 
-> I am a hardworking individual who is dedicated towards my goals.
+I am a hardworking individual who is dedicated towards my goals.
 <br />
 
 - :computer: &nbsp;
