@@ -9,7 +9,7 @@ I am a hardworking individual who is dedicated towards my goals.
 - :computer: &nbsp;
 I’m currently working as a Software Engineer and Data Engineer, building scalable web applications and automating data workflows.
 - 🔗: &nbsp;Connect with me on **[Teams]**
-- 📫 How to reach me **nb42907@hotmail.com**
+- 📫 How to reach me **acevillarta583@gmail.com**
 - 💬 Ask me about: Anything, I am happy to help.
 
 <br>
